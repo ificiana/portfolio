@@ -1,0 +1,6 @@
+[submodule "python/escape"]
+	path = python/escape
+	url = https://github.com/ificiana/escape.git
+[submodule "python/alien-escape"]
+	path = python/alien-escape
+	url = https://github.com/ificiana/project-pygames.git
